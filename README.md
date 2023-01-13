@@ -1,4 +1,4 @@
-                                                           Projet Immo :
+                                                            Projet Immo :
 
 
 Le but de cette exercice est la création d’un modèle prédictif permettant l’estimation des biens immobiliers. Pour cela on a une base de données des prix médians des logements pour les districts de Californie issus du recensement de 1990.
@@ -14,11 +14,10 @@ Le repositories contiendra les 3 Notebooks, la présentation en format PDF ainsi
 
 Planning prévisionnel :
 
-| Jour	|  12 janvier |  13 janvier | 25 janvier| 1 février	| 2 février |----------|:-------------:|------:| |
-
-Matin	|	Planification du projet, Exploration des données |Visualisation des données,  Nettoyage des données|    Inference stat | .. | Mise au propre,Fin de la presentation |----------|:-------------:|------:| |
-                                                                                             
-Après-midi	| Nettoyage des données,Veille bibliographique | Inference Statistique,Veille bibliographique | Choix du modéle,veille bibliographique | veille bibliographique| ...  |     
-                                           
-               
-
+| Jour	    |        12 janvier        |         13 janvier         |          25 janvier        |         1 février        	|          2 février         |
+| --------- | ------------------------ | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+| Matin	    |	Planification du projet  | Visualisation des données  |        Inference stat      |              ..            |         Mise au propre     |
+|           | Exploration des données  |   Nettoyage des données    |                            |                            |    Fin de la presentation  |              | --------- | ------------------------ |  ------------------------  |  ------------------------  |  ------------------------  |  ------------------------  |
+|Après-midi	|  Nettoyage des données   |   Inference Statistique    |       Choix du modéle      |    veille bibliographique  |             ...            |     
+|           |  Veille bibliographique  |   Veille bibliographique   |    veille bibliographique  |                            |                            |
+          
