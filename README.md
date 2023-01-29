@@ -14,10 +14,10 @@ Le repositories contiendra les 3 Notebooks, la présentation en format PDF ainsi
 
 **Planning prévisionnel :**
 
-| Jour	    |        12 janvier        |         13 janvier         |          25 janvier        |         1 février        	|          2 février         |
+| Jour	  |        12 janvier        |         13 janvier         |          25 janvier        |       1 février            |          2 février         |
 | --------- | ------------------------ | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
-| Matin	    |	Planification du projet  | Visualisation des données  |        2eme itérations     |      2eme itérations       |         Mise au propre     |
+| Matin	  | Planification du projet  | Visualisation des données  |         itérations         |          itérations        |         Mise au propre     |
 |           | Exploration des données  |   Nettoyage des données    |                            |                            |    Fin de la presentation  |              | --------- | ------------------------ |  ------------------------  |  ------------------------  |  ------------------------  |  ------------------------  |
-|Après-midi	|  Nettoyage des données   |   Inference Statistique    |                            |    veille bibliographique  |             ...            |     
+|Après-midi |  Nettoyage des données   |   Inference Statistique    |                            |    veille bibliographique  |             ...            |     
 |           |  Veille bibliographique  |   Veille bibliographique   |    veille bibliographique  |                            |                            |
           
