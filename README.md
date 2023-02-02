@@ -10,7 +10,7 @@ Le travail sera découpé en 4 étapes :
 4)	Protocole d’utilisation du modèle (Notebook predict)
 
 L’ensemble des résultats sera résumé dans une présentation de 7 min (10 slides) et rendu le 3 février. 
-Le repositories contiendra les 3 Notebooks, la présentation en format PDF ainsi qu’une veille bibliographique. 
+Le repositories contiendra les 4 Notebooks, la présentation en format PDF. 
 
 **Planning prévisionnel :**
 
